@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hello, World! I'm Lakshya Chandani
 
-<!--
-**LakshyaChandani/LakshyaChandani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **tech enthusiast** and a **fresher** currently pursuing **B.Tech in Computer Science & Engineering with a specialization in AI & ML** at **VIT Bhopal**. 🚀
 
-Here are some ideas to get you started:
+🌱 About Me
+- **Languages:** Python 🐍 | HTML & CSS 🌐
+- **Passion:** 3D Modeling in Blender 🎨
+- **Interests:** Exploring new technologies, AI/ML, and all things tech-related 🤓
+- **OS of Choice:** Arch Linux 🐧 _("I use Arch btw")_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I'm Up To
+- Dipping my toes into the vast ocean of **Artificial Intelligence** and **Machine Learning**.
+- Sharpening my skills in **Python** and **web development**.
+- Building cool 3D models and animations in **Blender**.
+- Tweaking and customizing my **Arch Linux** setup for optimal productivity and fun!
+
+🤖 Tech Nerd Alert
+I'm always on the lookout for new tools, languages, and frameworks. If it's tech-related, chances are I'm either already deep into it or it's on my ever-growing list of things to explore!
+
+🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/lakshyachandani) 🔗
+

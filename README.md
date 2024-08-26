@@ -11,7 +11,7 @@ I'm a **tech enthusiast** and a **fresher** currently pursuing **B.Tech in Compu
 ### 🔭 What I'm Up To
 - Dipping my toes into the vast ocean of **Artificial Intelligence** and **Machine Learning**.
 - Sharpening my skills in **Python** and **web development**.
-- Building cool 3D models and animations in **Blender**.
+- [Building cool 3D models and animations in **Blender**.](https://github.com/LakshyaChandani/Blender-Renders)
 - Tweaking and customizing my **Arch Linux** setup for optimal productivity and fun!
 - Exploring the latest features of **Windows 11**.
 
